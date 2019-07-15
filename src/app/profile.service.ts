@@ -57,7 +57,7 @@ export class ProfileService {
          }
        )
       })
-      // console.log(this.users)
+     
       return this.users
      }
    }
