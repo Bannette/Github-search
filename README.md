@@ -15,7 +15,7 @@ This application is about github search whereby a user is able to check reposito
 * CSS
 * ANGULAR CLI
 # LIVE LINK
-https://bannette.github.io/Quotes/
+https://bannette.github.io/Github-search/
 
 # BUGS
 
