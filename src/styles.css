@@ -10,12 +10,12 @@ header,
 }
 
 h1{
-  color: turquoise;
-  font-size: 50px;
-  font-family: 'Monoton', cursive;
+ color: navy;
+  font-size: 60px;
+  font-family: fantasy;
 }
 p strong {
   font-size: 30px;
   font-style: italic;
-  font-family: 'Lobster Two', cursive;
+  font-family: monospace;
 }
